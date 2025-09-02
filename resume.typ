@@ -1,6 +1,6 @@
 /* Heavily borrows from the "basic-resume" template
  * Source of that template: https://github.com/stuxf/basic-typst-resume-template
- * 
+ *
  * I only forked into my own template since there were a couple of formatting changes I wanted to make to adjust to the needs of my resume
 */
 
@@ -87,7 +87,7 @@
   }
   v(-5pt)
 }
- 
+
 #let resume(
   name: "",
   pronouns: "",
@@ -126,7 +126,7 @@
   ]
 
   [= #name]
-  
+
   align(right)[
     #move(dy: -42pt)[
     #{
@@ -185,7 +185,7 @@
 - Boosted extension performance with multi-threading, *reducing CPU usage* to below 5%
 - Built the *testing infrastructure* (monitors, alerts, and dashboards) and *resolved 95% of incidents* as an SME
 - Authored *documentation and TSGs*, reducing on-call load by an estimated 15% and accelerating issue resolution
-- *Modernized of the legacy codebase*, reducing technical debt and making development less error prone
+- *Modernized the legacy codebase*, reducing technical debt and making development less error prone
 
 #work(
   title: "Software Engineer",
@@ -197,7 +197,7 @@
 - *Integrated* *_LEAP_* *features across products* with partner teams, increasing product value and adoption
 - *Implemented customer feedback* to streamline workflows and reduce friction for end users
 - Led peer *reviews and debugging sessions* to improve code quality, maintainability, and knowledge share
-- *Mentored new hires*, enabling them to be productive within 3 weeks and strengthening team cohesion 
+- *Mentored new hires*, enabling them to be productive within 3 weeks and strengthening team cohesion
 
 #work(
   title: "Teaching Staff (C & Systems Programming)",
@@ -235,6 +235,6 @@
 )
 #education(
   school: "Georgia Institute of Technology",
-  degree: "M.S in Computer Science",
+  degree: "M.S. in Computer Science",
   extra: " (Expected 2027)"
 )
