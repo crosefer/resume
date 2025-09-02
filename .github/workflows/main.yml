@@ -1,7 +1,7 @@
 name: Render Resume .pdf
 on: push
 permissions:
-  content: write
+  contents: write
 jobs:
   render:
     runs-on: ubuntu-latest
