@@ -167,9 +167,9 @@
   company: "Docusign",
   dates: date(start: "August 2024", end: "Present"),
 )
-- Built #strong("new ranking system") from the ground up, with precise relevance tuning and improving search result accuracy
-- Led development of a #strong("NER-powered search experience"), achieving 20% of all searches and 30% adoption in 30 days
-- Coordinated a cross-team effort to deliver AI features as a #strong("company-wide initiative") to enhance product intelligence
+- Built *new ranking system* from the ground up, with precise relevance tuning and improving search result accuracy
+- Led development of a *NER-powered search experience*, achieving 20% of all searches and 30% adoption in 30 days
+- Coordinated a cross-team effort to deliver AI features as a *company-wide initiative* to enhance product intelligence
 - *Improved observability and KPI tracking* by enhancing logs and metrics emitted by the service
 - Spearheaded the migration of the *Elasticsearch Client SDK*, raising developer productivity and code maintainability
 - *Resolved 90%+ of incidents* opened during on-call, *reduced false positives by \~10%* by tuning alerts
@@ -180,11 +180,11 @@
   company: "Microsoft",
   dates: date(start: "May 2022", end: "April 2024"),
 )
-- #strong("Maintained") a critical Azure VM extension deployed on #strong("2.5M+ VMs"), ensuring reliability and security at scale
+- *Maintained* a critical Azure VM extension deployed on *2.5M+ VMs*, ensuring reliability and security at scale
 - Delivered *support for 2 new platforms* and *automatic migration* from the legacy extension for 200k+ VMs
 - Boosted extension performance with multi-threading, *reducing CPU usage* to below 5%
 - Built the *testing infrastructure* (monitors, alerts, and dashboards) and *resolved 95% of incidents* as an SME
-- Authored #strong("documentation and TSGs"), reducing on-call load by an estimated 15% and accelerating issue resolution
+- Authored *documentation and TSGs*, reducing on-call load by an estimated 15% and accelerating issue resolution
 - *Modernized of the legacy codebase*, reducing technical debt and making development less error prone
 
 #work(
@@ -192,10 +192,10 @@
   company: "Ezoic, Inc.",
   dates: date(start: "June 2021", end: "April 2022"),
 )
-- Owned #strong("core repos and databases") for #emph("LEAP") Technologies, maintaining stability of a critical product line.
-- Improved performance of #emph("LEAP")'s backend by up to #strong("5x"), reducing data ingestion times from days to \<24 hours
-- #strong("Integrated " + emph("LEAP") + " features across products") with partner teams, increasing product value and adoption
-- #strong("Implemented customer feedback") to streamline workflows and reduce friction for end users
+- Owned *core repos and databases* for _LEAP_ Technologies, maintaining stability of a critical product line.
+- Improved performance of _LEAP_'s backend by up to *5x*, reducing data ingestion times from days to \<24 hours
+- *Integrated* *_LEAP_* *features across products* with partner teams, increasing product value and adoption
+- *Implemented customer feedback* to streamline workflows and reduce friction for end users
 - Led peer *reviews and debugging sessions* to improve code quality, maintainability, and knowledge share
 - *Mentored new hires*, enabling them to be productive within 3 weeks and strengthening team cohesion 
 
@@ -204,28 +204,28 @@
   company: "University of California, Irvine",
   dates: date(start: "March 2021", end: "June 2021"),
 )
-- Designed and graded #strong("5 programming assignments") on topics including shells, memory allocators, and networking
-- Authored the #strong("Networking Final project"), providing the protocol, library code, working client, and grading scripts
-- Assisted students #strong("debugging sessions and forum support"), improving their understanding of low-level concepts
+- Designed and graded *5 programming assignments* on topics including shells, memory allocators, and networking
+- Authored the *Networking Final project*, providing the protocol, library code, working client, and grading scripts
+- Assisted students *debugging sessions and forum support*, improving their understanding of low-level concepts
 
 == Projects
 #project(
   name: "Raging Rocks",
   tech: "Unity, C#"
 )
-- #strong("Led gameplay and UI development") for an Angry Birds-style game, implementing core mechanics and menus
+- *Led gameplay and UI development* for an Angry Birds-style game, implementing core mechanics and menus
 - Streamlined prototyping by designing a *flexible power-up framework*, reducing iteration time for new features
 #project(
   name: "Chatroom Server",
   tech: "C",
 )
-- Developed a #strong("multithread chat server") supporting an arbitrary amount of users and rooms using POSIX threads
-- Implemented #strong("thread safe generic data structures") (map, sets, vector) from scratch to support scalable concurrency
+- Developed a *multithread chat server* supporting an arbitrary amount of users and rooms using POSIX threads
+- Implemented *thread safe generic data structures* (map, sets, vector) from scratch to support scalable concurrency
 #project(
   name: "FabFlix",
   tech: "Java, JavaScript, React, SQL"
 )
-- Built a #strong("full-stack e-commerce platform") with secure authentication, microservice backend, and React SPA frontend
+- Built a *full-stack e-commerce platform* with secure authentication, microservice backend, and React SPA frontend
 - Enhanced scalability with an *API Gateway* abstraction and a custom ORM query builder for secure SQL generation
 == Education
 #education(
