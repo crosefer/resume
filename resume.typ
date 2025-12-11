@@ -209,12 +209,18 @@
 - Assisted students *debugging sessions and forum support*, improving their understanding of low-level concepts
 
 == Projects
+//#project(
+//  name: "Raging Rocks",
+//  tech: "Unity, C#"
+//)
+//- *Led gameplay and UI development* for an Angry Birds-style game, implementing core mechanics and menus
+//- Streamlined prototyping by designing a *flexible power-up framework*, reducing iteration time for new features
 #project(
-  name: "Raging Rocks",
-  tech: "Unity, C#"
+  name: "Crux Compiler",
+  tech: "Java, LLVM, ANTLR4"
 )
-- *Led gameplay and UI development* for an Angry Birds-style game, implementing core mechanics and menus
-- Streamlined prototyping by designing a *flexible power-up framework*, reducing iteration time for new features
+- Built a *full-stack compiler* from ANTLR grammar definitions to LLVM IR and x64 code generation
+- Implemented functions, recursion, *short-circuiting control flow*, type checking, static scoping, and shadowing
 #project(
   name: "Chatroom Server",
   tech: "C",
